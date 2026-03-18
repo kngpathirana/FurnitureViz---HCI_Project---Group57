@@ -5,7 +5,7 @@ A modern web-based 3D room design application that allows users to create and vi
 ## 🔗 Links
 
 - **GitHub Repository:** https://github.com/kngpathirana/FurnitureViz---HCI_Project---Group57.git
-- **YouTube Demo:** [https://youtu.be/YOUR_VIDEO_ID](https://youtu.be/YOUR_VIDEO_ID)
+- **YouTube Demo:** [https://youtu.be/YOUR_VIDEO_ID]
 
 ## 👥 Group Members
 
@@ -17,7 +17,6 @@ A modern web-based 3D room design application that allows users to create and vi
 | Rathnayake M Rathnayake | 10954925 |
 | Samarathunga  Samarathunga | 10953558 |
 | Karunarathna Karunarathna | 10953359 |
-
 
 ## Overview
 
