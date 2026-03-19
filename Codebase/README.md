@@ -2,6 +2,26 @@
 
 A modern web-based 3D room design application that allows users to create and visualize interior spaces with customizable furniture arrangements. Built with Next.js, React Three Fiber, and Firebase.
 
+## 👥 Team Members
+
+- **Samarathunga Samarathunga**  
+  ID: 10953558  
+
+- **Rathnayake M Rathnayake**  
+  ID: 10954925  
+
+- **Kavindu Pathirana**  
+  ID: 10953487  
+
+- **Ginigaddarage Jayasri**  
+  ID: 10953502  
+
+- **P U N Pieris**  
+  ID: 10952710  
+
+- **Karunarathna Karunarathna**  
+  ID: 10953359  
+
 ## Overview
 
 FurnitureViz is an interactive room design tool that enables users to:
